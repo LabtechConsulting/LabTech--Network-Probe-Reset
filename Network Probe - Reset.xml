@@ -1,0 +1,30 @@
+﻿<LabTech_Expansion
+	Version="100.332"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>90002</ScriptId>
+				<FolderId>0</FolderId>
+				<ScriptName>LT - Network Probe Reset</ScriptName>
+				<ScriptNotes>Tries to rest the network probe.
+Kamino Consulting
+http://labtechconsulting.com/when-probes-go-bad
+5/1/2015</ScriptNotes>
+				<Permission></Permission>
+				<EditPermission></EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMfvZmv62aWXY/SL7J6Ok9390bp3s7u/XR359Hew0f3H6Qvv3h813vh8etpXazan8zrpqiWgBx+oN9/vi5mR7Pz6cFefm+2PX2482B7dzff36Zf9rd3du7v3P8029u5P7tv3ucXHt/1x/MbJ/8P4d3u8d8AAAA=</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih6/ntbFqn2atdnRb5ykqf7d8B/05+m7ts7w7bMiL2dNetd88TKrs0Xe5rX32edlNclK7wMB9pPUqKiWR7uP74YfBK0+Xxezo9n59GAvvzfbnj7cebC9u5vvb9Mv+9s7O/d37n+a7e3cn903UPgFxlk/aPwRvG7zlR3F8bRVBPQ3/fzZesl/n83wnfeXP8jdzqD3On/f6/y93/n7vkePqm6Pdghf/NTPTqplWyzXOT63v+t3XzbPi0XBr5hf9Zuz5SxfthkPhr71//RJ4qiwgSx7m8jyYG+YMEevT5+fnrxJ/4CfzMp1/gekz159+UX6B6zqapXXbZE3f0D63W+fvjpN/4AXxCp/QPpZ+vHToskmZX5SLRbZctacLad1viDMP358V0H+v5rS+z+LlH6ws4HQv3vzi8o6b9Zl+7vHKQXQ+ltAsaM39TrXr+6FxDt69Cpv8la/3N9Iyd1vmpL3fhYpufdwAyXfzPN0Ax+myr3XadGkTd6mbZV6xB+nv0+1ThfFxbxNr7Ilf62tQOhxOm/bVfPo7t1ZNW3GZTZp8+m8qc7bq6zOx9Nqcfftsroq89lFPsma/G5GcjIt87sP9x/u/6yIwN43PXE/myKwe2/TzAXs+s1S6d43TaWfTZW8SSHv7u68n37oEurodz/58ouXX705fXX21Kiajmo4Ml3cD2i4/03T8GeT0/Y2mPujewM0/EAmu///KQJtoM+esTXvSZ+vz1uf/n+JdLv7G2j37d/r+Re/7+svn7357vGr09/3eTZ5Qwbi931ZV5P8dV5fFlNjrN+Ttjfw3oMBAu7+f5yA362uPt2/t/eimuU/PGIevD8xD37uiPnpBmIu87aZp8WSwrjzbJqnxSqd5SVFdWlWr6bZdP6zQ8CH/58S5/ubCThgb5u2WqXP34R82HXOd+Oe+Q3k29355uj3s0+/nwtTu/uNxys/qxT6Wg6d4Z0OT31zRnf3/1Oxw/+7HJbdbzyi+FminRrcgx9a9gvG/f87lNkomsgz/JDZ6v9TMcTu/oNNQvn1iHcTe/1chArm76eSRf9/AP1cUCpUFwAA</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>dfc82e3d-c907-11e4-9074-005056a205d5</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+	</PackedScript>
+</LabTech_Expansion>
